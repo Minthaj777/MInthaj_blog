@@ -121,7 +121,7 @@ body {
   animation-delay: calc(0.2s * var(--i));
 }
 .social-media a i {
-  font-size: 40px;
+  font-size: 32px;
 }
 .social-media a:hover {
   background: #0ef;
