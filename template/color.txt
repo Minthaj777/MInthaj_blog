@@ -1,0 +1,3 @@
+#619f9a - primery
+#282c35 - secondry
+#9fa3a6 - para
