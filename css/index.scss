@@ -112,7 +112,7 @@ body {
   animation: sliderLeft 1s ease forwards;
   animation-delay: calc(0.2s * var(--i));
   i {
-    font-size: 40px;
+    font-size: 32px;
   }
 
   &:hover {
